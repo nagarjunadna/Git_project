@@ -1,0 +1,31 @@
+********   when SUDO is not required.? if system is in root.******
+
+sudo yum -y remove jenkins
+
+Start Jenkins
+You can enable the Jenkins service to start at boot with the command:
+
+sudo systemctl enable jenkins
+
+You can start the Jenkins service with the command:
+
+sudo systemctl start jenkins
+
+You can check the status of the Jenkins service using the command:
+
+sudo systemctl status jenkins
+
+to display the password of jenkins tool access
+
+
+jenkins web UI
+user name is "arjun"
+password is "Jenkins"
+
+
+all jenkins files are stored into the below respective path:
+
+/var/lib/jenkins/workspace/
+
+to go to root user in linux is command
+ SUDO -I
