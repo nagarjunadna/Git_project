@@ -1,0 +1,7 @@
+iam learning Git commands,
+jenkins CI/CD pipelines,
+docker,
+kubernetes,
+ansible,
+AWS colud management tools[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Clo[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D
+and learning Linux scripting and python scrtping[D[D[D[D[Dit[C[pting
